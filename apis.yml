@@ -11,6 +11,17 @@ description: >-
   raised a Series A round led by the EQT Dementia Fund and age1, with additional
   backing from Speedinvest and Backed. Aerska is a pre-clinical drug-discovery
   company and does not currently publish a public developer API or platform.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
